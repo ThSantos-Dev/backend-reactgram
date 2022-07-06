@@ -3,7 +3,7 @@ const User = require("../models/User");
 
 // Importando o JWT
 const jwt = require("jsonwebtoken");
-const jwtSecret = process.env.JWT_PASS;
+const jwtSecret = process.env.JWT_PASS || "13AMOaMEL05";
 
 // Função para verificar se o usuário está autenticado
 const authGuard = async (req, res, next) => {
