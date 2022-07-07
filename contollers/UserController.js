@@ -7,7 +7,7 @@ const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 
 // Resgatando a palavra "Segredo" do arquivo dotenv
-const jwtSecret = process.env.JWT_PASS || "13AMOaMEL05"
+const jwtSecret = process.env.JWT_PASS 
 
 /**
  * Gerando Token para o usuário
