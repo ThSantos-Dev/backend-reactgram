@@ -2,7 +2,7 @@
 
 Documentação da API no POSTMAN: <a href="https://documenter.getpostman.com/view/18027456/UzJQqEqv">https://documenter.getpostman.com/view/18027456/UzJQqEqv</a>
 
-## Objetivo: aprender na prática como construir API para aplicações com Node.js e Express.
+## Objetivo: aprender na prática como construir API com Node.js e Express.
 <p>A API simula algumas das funcionalidades do Instragram, tais como: Cadastro, Login e Posts (publicação de fotos, likes e comentários).</p>
 
 ## Tecnologias utilizadas:
