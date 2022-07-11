@@ -1,6 +1,6 @@
 # Backend - ReactGram
 
-## Documentação da API no POSTMAN:
+Documentação da API no POSTMAN:
 <p>Clique <a href="https://documenter.getpostman.com/view/18027456/UzJQqEqv">aqui</a> para abir a documentação.</p>
 
 ## Objetivo: aprender na prática como construir API para aplicações com Node.js e Express.
