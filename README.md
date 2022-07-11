@@ -1,7 +1,6 @@
 # Backend - ReactGram
 
-Documentação da API no POSTMAN:
-<p>Clique <a href="https://documenter.getpostman.com/view/18027456/UzJQqEqv">aqui</a> para abir a documentação.</p>
+Documentação da API no POSTMAN: <a href="https://documenter.getpostman.com/view/18027456/UzJQqEqv">https://documenter.getpostman.com/view/18027456/UzJQqEqv</a>
 
 ## Objetivo: aprender na prática como construir API para aplicações com Node.js e Express.
 <p>A API simula algumas das funcionalidades do Instragram, tais como: Cadastro, Login e Posts (publicação de fotos, likes e comentários).</p>
